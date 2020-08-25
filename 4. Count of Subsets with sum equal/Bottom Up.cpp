@@ -20,7 +20,7 @@ int subsetSum(int arr[],int n, int target){
                  table[i][j]=table[i-1][j];
                  continue;
              }
-             table[i][j]=table[i-1][j] || table[i-1][j-arr[i-1]];
+             table[i][j]=table[i-1][j] + table[i-1][j-arr[i-1]];
          }
      }
      return table[n][target];
@@ -34,5 +34,5 @@ int main(){
     cin>>n>>target;
     int arr[n];
     for(int i=0; i<n ;i++)cin>>arr[i];
-    cout<<(subsetSum(arr,n,target)?"YES":"NO")<<endl;
+    cout<<subsetSum(arr,n,target);
 }
