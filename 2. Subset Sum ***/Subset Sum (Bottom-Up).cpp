@@ -2,18 +2,18 @@
 using namespace std;
 
 int subsetSum(int arr[],int n, int target){
-     int table[n+1][target+1];
+     bool table[n+1][target+1];
      for(int i=0;i<=n;i++){
          for(int j=0; j<=target ;j++){
              if(i==0){
-                 table[i][j]=0;
+                 table[i][j]=false;
              }
              if(j==0){
-                 table[i][j]=1;
+                 table[i][j]=true;
              }
          }
      }
-     table[0][0]=1;
+     table[0][0]=true;
      for(int i=1 ; i<=n ;i++){
          for(int j=1; j<=target ;j++){
              if(arr[i-1]>j){
