@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-int dp[1001][1001];
+
 /*
 Link : https://www.geeksforgeeks.org/subset-sum-problem-dp-25/
 O(n^2) -Time
@@ -9,12 +9,12 @@ O(n^2) -Space
 
 */
 
-
+int dp[102][50001];
 int subsetSum(int arr[],int n, int target){
       if(target==0)
         return 1;
 
-      if(n<0)
+      if(n<0 || target<0)
        return 0;
 
       if(dp[n][target]!=-1)
