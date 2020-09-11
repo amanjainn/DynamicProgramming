@@ -23,9 +23,9 @@
    Questions :
     # 30
     
-## 7. Variation of dp on Graphs
+## 7. Variation of dp on Grids
    Questions :
-    # 29
+    # 29 #31
     
     
      
