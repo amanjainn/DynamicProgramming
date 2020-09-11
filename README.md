@@ -19,7 +19,11 @@
    Questions :
     # 25,26
     
-## 6. Variation of dp on Graphs
+## 6. Variation of Fibonacci Series
+   Questions :
+    # 30
+    
+## 7. Variation of dp on Graphs
    Questions :
     # 29
     
