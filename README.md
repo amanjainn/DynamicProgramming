@@ -19,7 +19,7 @@
    Questions :
     # 25,26
     
-## 5. Variation of dp on Graphs
+## 6. Variation of dp on Graphs
    Questions :
     # 29
     
