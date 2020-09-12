@@ -21,11 +21,11 @@
     
 ## 6. Variation of Fibonacci Series
    Questions :
-    # 30
+    # 30,32
     
 ## 7. Variation of dp on Grids
    Questions :
-    # 29 #31
+    # 29,31
     
     
      
