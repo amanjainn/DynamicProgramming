@@ -8,7 +8,7 @@
     
 ## 3. Variation of longest common subsequence
    Questions :
-    # 13,14,15,16,17,18,19,20
+    # 13,14,15,16,17,18,19,20,34
     
 ## 4. Variation of Matrix Chain Multiplication
    Questions :
