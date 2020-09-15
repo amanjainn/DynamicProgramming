@@ -4,7 +4,7 @@
 
 ## 2. Variation of unbounded Knapsack
    Questions :
-    # 8,9,10,11,12,28
+    # 8,9,10,11,12,28,37
     
 ## 3. Variation of longest common subsequence
    Questions :
@@ -26,6 +26,10 @@
 ## 7. Variation of dp on Grids
    Questions :
     # 29,31,33
+    
+## 8. Misc
+   Questions :
+    #    
     
     
      
