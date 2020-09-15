@@ -1,5 +1,6 @@
 /*
 Link :  https://practice.geeksforgeeks.org/problems/count-of-strings-that-can-be-formed-using-a-b-and-c-under-given-constraints/0
+O(n)
 */
 
 #include<bits/stdc++.h>
