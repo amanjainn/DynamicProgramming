@@ -8,7 +8,7 @@
     
 ## 3. Variation of longest common subsequence
    Questions :
-    # 13,14,15,16,17,18,19,20,34,36,41
+    # 13,14,15,16,17,18,19,20,34,36
     
 ## 4. Variation of Matrix Chain Multiplication
    Questions :
@@ -17,7 +17,7 @@
 
 ## 5. Variation of Longest increasing subsequence
    Questions :
-    # 25,26,37,38,39
+    # 25,26,37,38,39,41
     
 ## 6. Variation of Fibonacci Series
    Questions :
