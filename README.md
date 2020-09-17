@@ -4,11 +4,11 @@
 
 ## 2. Variation of unbounded Knapsack
    Questions :
-    # 8,9,10,11,12,28,37
+    # 8,9,10,11,12,28,37,40
     
 ## 3. Variation of longest common subsequence
    Questions :
-    # 13,14,15,16,17,18,19,20,34,36
+    # 13,14,15,16,17,18,19,20,34,36,41
     
 ## 4. Variation of Matrix Chain Multiplication
    Questions :
