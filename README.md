@@ -17,7 +17,7 @@
 
 ## 5. Variation of Longest increasing subsequence
    Questions :
-    # 25,26,37,38,39,41
+    # 25,26,37,38,39,41,47
     
 ## 6. Variation of Fibonacci Series
    Questions :
