@@ -1,12 +1,12 @@
 ## 1. Variation of 0/1 Knapsack
    Questions :
-    **1. 0/1 Knapsack Problem **
-    **2. Subset Sum **
-    **3. Equal Sum partition **
+    **1. 0/1 Knapsack Problem**
+    **2. Subset Sum**
+    **3. Equal Sum partition**
     **4. Count of subsets with given difference**
-    **5. Minimum Sum partition **
-    **6. Count Subsets with given sum **
-    **7. Target Sum ** 
+    **5. Minimum Sum partition**
+    **6. Count Subsets with given sum**
+    **7. Target Sum** 
     
 
 ## 2. Variation of unbounded Knapsack
