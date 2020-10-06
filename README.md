@@ -70,6 +70,7 @@
         42. Skip the work  (Must do)
         44. Largest zigzag sequence 
         45. Maximum Product Cutting (Must do)
+        51. Minimum number of jumps to reach the end of the array/ Jump Game II (Must Do)
     
     
      
