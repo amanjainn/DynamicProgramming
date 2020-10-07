@@ -58,6 +58,7 @@
         30. Count Number of hops  (Must do)
         32. Reach a given score (Must do)
         35. Friends Pairing Problem (Must do)
+        54. Count ways to reach Nth stair
     
 ## 7. Variation of dp on Grids
      Questions 
