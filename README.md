@@ -59,6 +59,7 @@
         32. Reach a given score (Must do)
         35. Friends Pairing Problem (Must do)
         54. Count ways to reach Nth stair
+        54. Consecutive 1's not allowed
     
 ## 7. Variation of dp on Grids
      Questions 
