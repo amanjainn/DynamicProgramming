@@ -66,6 +66,7 @@
         29. Count possible Paths  (Must do)
         31. Goldmine Problem (Must do)
         33. Number of unique paths (Must do)
+        57. Minimum Path Sum (Must do)
         
 ## 8. Minimum (Maximum) Path to Reach a Target
      Questions 
