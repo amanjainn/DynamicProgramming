@@ -66,8 +66,13 @@
         29. Count possible Paths  (Must do)
         31. Goldmine Problem (Must do)
         33. Number of unique paths (Must do)
+        
+## 8. Minimum (Maximum) Path to Reach a Target
+     Questions 
+        56. Min Cost Climbing Stairs 
+       
    
-## 8. Misc
+## 9. Misc
       Questions 
         42. Skip the work  (Must do)
         44. Largest zigzag sequence 
