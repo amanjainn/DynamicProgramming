@@ -70,7 +70,8 @@
         
 ## 8. Minimum (Maximum) Path to Reach a Target
      Questions 
-        56. Min Cost Climbing Stairs 
+        56. Min Cost Climbing Stairs
+        58. Min Cost for Tickets (Must Do)
        
    
 ## 9. Misc
