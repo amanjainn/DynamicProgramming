@@ -8,6 +8,8 @@
         6. Count Subsets with given sum (Must do)
         7. Target Sum  (Must do)
         27. Stickler Thief (Must do)
+        61. Last stone Weight II (Must Do)
+        62. Ones and Zeros (Must Do)
     
 ## 2. Variation of unbounded Knapsack
        Questions 
@@ -21,6 +23,7 @@
         40. Get minimum squares (Must do)
         43. Ways to Sum N (Must do)
         50. Count ways to Express N as the sum of 1,3,4
+        60. Perfect Squares 
       
 ## 3. Variation of longest common subsequence
       Questions 
@@ -72,11 +75,7 @@
      Questions 
         56. Min Cost Climbing Stairs
         58. Min Cost for Tickets (Must Do)
-        59. 2 keys Keyboard (Must Do)
-        60. Perfect Squares 
-        61. Last stone Weight II (Must Do)
-        62. Ones and Zeros (Must Do)
-       
+        59. 2 keys Keyboard (Must Do)       
    
 ## 9. Misc
       Questions 
