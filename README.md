@@ -73,6 +73,7 @@
         56. Min Cost Climbing Stairs
         58. Min Cost for Tickets (Must Do)
         59. 2 keys Keyboard (Must Do)
+        60. Perfect Squares (Must Do)
        
    
 ## 9. Misc
