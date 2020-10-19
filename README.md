@@ -72,6 +72,7 @@
         57. Minimum Path Sum (Must do)
         63. Triangle (Must do)
         64. Maximal Square (Must do)
+        65. Dungeon Game (Must do)
         
 ## 8. Minimum (Maximum) Path to Reach a Target
      Questions 
