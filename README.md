@@ -73,12 +73,14 @@
         63. Triangle (Must do)
         64. Maximal Square (Must do)
         65. Dungeon Game (Must do)
+        67. Unique Paths (Must do)
         
 ## 8. Minimum (Maximum) Path to Reach a Target
      Questions 
         56. Min Cost Climbing Stairs
         58. Min Cost for Tickets (Must Do)
-        59. 2 keys Keyboard (Must Do)       
+        59. 2 keys Keyboard (Must Do)
+        66. Minimum Number of refueling stops (Must do)
    
 ## 9. Misc
       Questions 
