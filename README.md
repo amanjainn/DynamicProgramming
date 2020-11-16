@@ -81,8 +81,28 @@
         58. Min Cost for Tickets (Must Do)
         59. 2 keys Keyboard (Must Do)
         66. Minimum Number of refueling stops (Must do)
+        
+        
+## 9. Distinct Ways
+     Questions 
+        68.
+        69.
+        70.
+        71.
+        72.
+        73.
+        74.
+        75.
+        76.
+        77.
+        78.
+        79.
+        80.
+        81.
+        82.
+        
    
-## 9. Misc
+## 10. Misc
       Questions 
         42. Skip the work  (Must do)
         44. Largest zigzag sequence 
