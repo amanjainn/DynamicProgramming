@@ -85,8 +85,8 @@
         
 ## 9. Distinct Ways
      Questions 
-        68.
-        69.
+        68. Knight Dialer
+        69. Number of Dice Rolls with target Sum
         70.
         71.
         72.
