@@ -38,6 +38,7 @@
         34. Maximize Dot product
         36. Distinct Occurrences (Must do)
         48. String subsequences
+        70. Interleaving String (Must Do)
     
 ## 4. Variation of Matrix Chain Multiplication
      Questions 
@@ -74,6 +75,7 @@
         64. Maximal Square (Must do)
         65. Dungeon Game (Must do)
         67. Unique Paths (Must do)
+        71. Unique Paths 2 
         
 ## 8. Minimum (Maximum) Path to Reach a Target
      Questions 
@@ -87,19 +89,7 @@
      Questions 
         68. Knight Dialer
         69. Number of Dice Rolls with target Sum
-        70.
-        71.
-        72.
-        73.
-        74.
-        75.
-        76.
-        77.
-        78.
-        79.
-        80.
-        81.
-        82.
+   
         
    
 ## 10. Misc
