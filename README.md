@@ -47,6 +47,7 @@
         23. Boolean Parenthesis   (Must do)
         24. Egg dropping  (Must do)
         47. Optimal Game Strategy  (Must do)
+        72. Palindrome Partitioning (Must Do)
 
 ## 5. Variation of Longest increasing subsequence
      Questions 
