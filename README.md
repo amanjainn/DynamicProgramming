@@ -48,6 +48,7 @@
         24. Egg dropping  (Must do)
         47. Optimal Game Strategy  (Must do)
         72. Palindrome Partitioning (Must Do)
+        75. Predict the Winner
 
 ## 5. Variation of Longest increasing subsequence
      Questions 
@@ -57,6 +58,7 @@
         39. Maximum Sum Bitonic Subsequence
         41. Longest Subsequence-1
         49. Minimum Insertions to sort an array  (Must do)
+        
     
 ## 6. Variation of Fibonacci Series
        Questions 
@@ -91,7 +93,6 @@
         68. Knight Dialer
         69. Number of Dice Rolls with target Sum
    
-        
    
 ## 10. Misc
       Questions 
@@ -103,7 +104,7 @@
         53. Decode Ways (Must do)
         73. Palindromic Substrings 
         74. House Robber
-        75. Predict the Winner(Must DO)
+     
     
     
      
