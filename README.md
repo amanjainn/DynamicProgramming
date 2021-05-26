@@ -49,6 +49,7 @@
         47. Optimal Game Strategy  (Must do)
         72. Palindrome Partitioning (Must Do)
         75. Predict the Winner
+        76. Word Break
 
 ## 5. Variation of Longest increasing subsequence
      Questions 
