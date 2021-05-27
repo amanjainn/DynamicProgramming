@@ -59,6 +59,7 @@
         39. Maximum Sum Bitonic Subsequence
         41. Longest Subsequence-1
         49. Minimum Insertions to sort an array  (Must do)
+        78. Number of Longest Increasing Subsequence (Must Do)
         
     
 ## 6. Variation of Fibonacci Series
