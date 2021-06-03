@@ -83,6 +83,7 @@
         65. Dungeon Game (Must do)
         67. Unique Paths (Must do)
         71. Unique Paths 2 
+        82. Knight Probability (Must do)
         
 ## 8. Minimum (Maximum) Path to Reach a Target
      Questions 
