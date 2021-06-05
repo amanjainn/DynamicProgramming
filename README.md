@@ -84,6 +84,7 @@
         67. Unique Paths (Must do)
         71. Unique Paths 2 
         82. Knight Probability (Must do)
+        83. Champagne Tower
         
 ## 8. Minimum (Maximum) Path to Reach a Target
      Questions 
