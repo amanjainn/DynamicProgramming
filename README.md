@@ -41,7 +41,7 @@
         48. String subsequences
         70. Interleaving String (Must Do)
         86. Wildcard Matching
-        88. Longest Arithmetic Progression
+        88. Longest Arithmetic Progression (Must Do)
     
 ## 4. Variation of Matrix Chain Multiplication
      Questions 
