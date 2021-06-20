@@ -118,6 +118,7 @@
         80. Longest Turbulent Subarray
         87. Maximum Product Subarray (Must Do)
         89. Mobile Numeric Keypad (Must Do)
+        91. Count subsequences of type a^i, b^j, c^k (Must Do)
      
     
     
