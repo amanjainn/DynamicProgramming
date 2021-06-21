@@ -1,0 +1,14 @@
+class Solution{
+	int dp[1005][1005];
+	public:
+	   int solve(vector<int> &nums, int i, int m, int sum){
+	        if(sum!=0 && sum%m==0)return 1;
+	        if(i==nums.size())return 0;
+	        if(dp[i][sum]!=-1)return dp[i][sum];
+	       return dp[i][sum]=solve(nums,i+1,m,sum+nums[i]) || solve(nums,i+1,m,sum);
+	   }
+		int DivisibleByM(vector<int>nums, int m){
+		     memset(dp,-1,sizeof(dp));
+		     return solve(nums,0,m,0);
+		}
+};
