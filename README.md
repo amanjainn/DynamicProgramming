@@ -10,6 +10,7 @@
         27. Stickler Thief (Must do)
         61. Last stone Weight II (Must Do)
         62. Ones and Zeros (Must Do)
+        93. Subset with sum divisible by m
     
 ## 2. Variation of unbounded Knapsack
        Questions 
