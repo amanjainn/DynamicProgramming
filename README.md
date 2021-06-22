@@ -78,7 +78,7 @@
         35. Friends Pairing Problem (Must do)
         54. Count ways to reach Nth stair
         55. Consecutive 1's not allowed
-        95. Tiling Dominos (Must Do)
+    
     
 ## 7. Variation of dp on Grids
      Questions 
@@ -93,6 +93,7 @@
         71. Unique Paths 2 
         82. Knight Probability (Must do)
         83. Champagne Tower
+        95. Tiling Dominos (Must Do)
         
 ## 8. Minimum (Maximum) Path to Reach a Target
      Questions 
