@@ -94,6 +94,7 @@
         82. Knight Probability (Must do)
         83. Champagne Tower
         95. Tiling Dominos (Must Do)
+        96. Find maximum length Snake sequence (Must Do)
         
 ## 8. Minimum (Maximum) Path to Reach a Target
      Questions 
