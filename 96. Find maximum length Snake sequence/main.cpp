@@ -18,7 +18,7 @@ int solve(int i, int j){
        if(check(i+1,j) && abs(mat[i][j]-mat[i+1][j])==1){
            temp=solve(i+1,j);
        }
-       if(check(i,j+1)){
+       if(check(i,j+1) && abs(mat[i][j]-mat[i][j+1])==1 ){
             temp=max(temp,solve(i,j+1));
        }
        return dp[i][j]=1+temp;
@@ -40,4 +40,5 @@ int main() {
         }
     }
     cout<<ans<<endl;
+   
 }
