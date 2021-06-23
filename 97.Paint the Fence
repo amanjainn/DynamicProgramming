@@ -1,0 +1,17 @@
+
+#define ll long long 
+class Solution{
+    public:
+    long long countWays(int n, int k){
+        if(n==1)return k;
+        ll mod=1e9+7;
+        ll same=k,n_same=k *(k-1),prev=same+n_same;
+        for(int i= 3; i<=n ;i++){
+           same=n_same;
+           n_same=prev * (k-1);
+           prev=same%mod + n_same %mod;
+           prev = prev %mod;
+        }
+        return prev;
+    }
+};
