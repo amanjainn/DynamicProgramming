@@ -45,6 +45,7 @@
         86. Wildcard Matching
         88. Longest Arithmetic Progression (Must Do)
         92. Regular Expression Matching (Must Do)
+        99. Longest Common Subsequence of 3 strings (Must Do)
     
 ## 4. Variation of Matrix Chain Multiplication
      Questions 
