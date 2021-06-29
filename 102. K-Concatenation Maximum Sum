@@ -1,0 +1,20 @@
+class Solution {
+public:
+    int kConcatenationMaxSum(vector<int>& arr, int k) {
+        long long sum=0,ans=0,array_sum=0;
+        int mod=1e9+7;
+        int n=arr.size();
+        array_sum=accumulate(arr.begin(),arr.end(),array_sum);
+        for(int i=0; i<arr.size()*min(2,k) ;i++){
+            sum+=arr[i%n];
+            if(arr[i%n]>sum){
+                sum=arr[i%n];
+            }
+            ans=max(sum,ans);
+       
+        }
+        cout<<ans<<endl;
+        long long result= max(ans, ans + (array_sum * max(0,(k-2))))%mod;
+        return result;
+    }
+};
