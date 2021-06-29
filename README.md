@@ -130,7 +130,7 @@
         94. Choice of Area 
         100. Count even length binary sequences with same sum of first and second half bits (Must Do)
         101. Maximum Subsequence sum such that no 3 elements are consecutive
-        102. K-Concatenation Maximum Sum
+        102. K-Concatenation Maximum Sum (Must do)
      
     
     
