@@ -98,6 +98,7 @@
         95. Tiling Dominos (Must Do)
         96. Find maximum length Snake sequence (Must Do)
         97. Painting the fence (Must Do)
+        103. Domino and Tronimo Tiling (Must do)
         
 ## 8. Minimum (Maximum) Path to Reach a Target
      Questions 
