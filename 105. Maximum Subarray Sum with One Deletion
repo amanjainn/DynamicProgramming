@@ -1,0 +1,33 @@
+In each interation for index i,
+curr0 is the maximum sum subarray ending at index i where no element is excluded
+curr1 is the maximum sum subarray ending at index i where one element is excluded
+prev0 is the maximum sum subarray ending at index i-1 where no element is excluded
+prev1 is the maximum sum subarray ending at index i-1 where one element is excluded
+
+Initialisation: prev0 is the first element and prev1 is 0 as the first element is excluded
+
+In each iteration we calculate curr0 & curr1, and update prev0 & prev1.
+To update curr0 we follow the same login as Kadane's - either extend the previous subarray or start a new one.
+To update curr1 we have two options,
+
+either exlude the current element and use prev0
+or include current element and add it to prev1
+#define ll long long
+
+class Solution {
+public:
+    int maximumSum(vector<int>& a) {
+        ll ans = a[0], prev0 = a[0], prev1 = 0;
+        
+        for(int i = 1 ; i < a.size() ; i++) {
+            ll curr0 = a[i] + max(prev0, 0ll);
+            ll curr1 = max(a[i] + prev1, prev0);
+            ans = max({ans, curr0, curr1});
+            
+            prev0 = curr0;
+            prev1 = curr1;
+        }
+        
+        return ans;
+    }
+};
