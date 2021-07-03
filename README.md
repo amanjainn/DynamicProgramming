@@ -59,6 +59,7 @@
         75. Predict the Winner
         76. Word Break
         90. Word Break II
+        106. Can I win
 
 ## 5. Variation of Longest increasing subsequence
      Questions 
@@ -134,6 +135,7 @@
         101. Maximum Subsequence sum such that no 3 elements are consecutive
         102. K-Concatenation Maximum Sum (Must do)
         105. Maximum Subarray Sum with One Deletion (Must do)
+        
      
     
     
