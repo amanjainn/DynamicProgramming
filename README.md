@@ -13,6 +13,7 @@
         93. Subset with sum divisible by m
         98. Count of all subsequence having product less than K (Must do)
         108. Best Time to Buy and Sell Stock with Transaction Fee
+       
     
 ## 2. Variation of unbounded Knapsack
        Questions 
@@ -61,6 +62,7 @@
         76. Word Break
         90. Word Break II
         106. Can I win
+        109. Scramble String
 
 ## 5. Variation of Longest increasing subsequence
      Questions 
