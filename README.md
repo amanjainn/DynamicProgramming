@@ -106,6 +106,7 @@
         96. Find maximum length Snake sequence (Must Do)
         97. Painting the fence (Must Do)
         103. Domino and Tronimo Tiling (Must do)
+        112. Longest Increasing Path in a Matrix
         
 ## 8. Minimum (Maximum) Path to Reach a Target
      Questions 
