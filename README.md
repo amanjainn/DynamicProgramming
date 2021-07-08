@@ -64,6 +64,8 @@
         106. Can I win
         109. Scramble String
         110. Remove Boxes (Must Do)
+        113. Stone Game 3 (Must Do)
+        114. Stone Game 4 (Must do)
 
 ## 5. Variation of Longest increasing subsequence
      Questions 
