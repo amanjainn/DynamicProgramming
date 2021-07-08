@@ -1,0 +1,25 @@
+class Solution {
+    int dp[101][101];
+    public:
+     int solve(vector<int>&piles,int i, int m){
+          if(i>=piles.size())return 0;
+          if(dp[i][m]!=-1)return dp[i][m];
+          int ans=INT_MIN,total=0; 
+          for(int j=0; j<2*m ; j++){
+               if(i+j<piles.size()){
+                   total+=piles[i+j];        
+               }
+                ans=max(ans,total-solve(piles,i+j+1,max(m,j+1)));
+          }
+          return dp[i][m]=ans;
+     }
+    int stoneGameII(vector<int>& piles) {
+        memset(dp,-1,sizeof(dp));
+        int diff=solve(piles,0,1); // diff in sums of alice and bob
+        cout<<diff<<endl;
+      //  cout<<diff<<endl;
+        int sum =accumulate(piles.begin(),piles.end(),sum);
+        sum= (diff+sum)/2;
+        return sum;
+    } 
+};
