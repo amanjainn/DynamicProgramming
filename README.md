@@ -81,6 +81,7 @@
         85. Max length chain
         109. Arithmetic Slices II - Subsequence (Must Do)
         115. Longest String Chain (Must do)
+        116. Maximum Profit in Job Scheduling (Must do)
     
 ## 6. Variation of Fibonacci Series
        Questions 
