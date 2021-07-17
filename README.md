@@ -66,6 +66,7 @@
         110. Remove Boxes (Must Do)
         113. Stone Game 3 (Must Do)
         114. Stone Game 2 (Must do)
+        120. Different ways to add parentheses (Must do)
 
 ## 5. Variation of Longest increasing subsequence
      Questions 
