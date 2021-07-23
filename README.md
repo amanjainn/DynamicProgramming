@@ -69,6 +69,7 @@
         114. Stone Game 2 (Must do)
         120. Different ways to add parentheses (Must do)
         123. Number of Sets of K non- overlapping line segments(Must do)
+        124. Egg Drop With 2 Eggs and N Floors
 
 ## 5. Variation of Longest increasing subsequence
      Questions 
