@@ -2,18 +2,18 @@
         Questions 
         1. 0/1 Knapsack Problem (Must do)
         2. Subset Sum (Must do)
-        3. Equal Sum partition (Must do)
+        3. Equal Sum partition 
         4. Count of subsets with given difference (Must do)
         5. Minimum Sum partition (Must do)
-        6. Count Subsets with given sum (Must do)
-        7. Target Sum  (Must do)
-        27. Stickler Thief (Must do)
+        6. Count Subsets with given sum 
+        7. Target Sum 
+        27. Stickler Thief 
         61. Last stone Weight II (Must Do)
-        62. Ones and Zeros (Must Do)
+        62. Ones and Zeros 
         93. Subset with sum divisible by m
-        98. Count of all subsequence having product less than K (Must do)
-        108. Best Time to Buy and Sell Stock with Transaction Fee
-        121. Filling Bookcase Shelves (Must do)
+        98. Count of all subsequence having product less than K 
+        108. Best Time to Buy and Sell Stock with Transaction Fee (Must do)
+        121. Filling Bookcase Shelves 
        
     
 ## 2. Variation of unbounded Knapsack
