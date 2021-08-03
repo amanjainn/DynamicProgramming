@@ -1,4 +1,4 @@
-## 1. Variation of 0/1 Knapsack
+## 1. Variation of 0/1 Knapsack  ✔
         Questions 
         1. 0/1 Knapsack Problem (Must do)
         2. Subset Sum (Must do)
@@ -16,7 +16,7 @@
         121. Filling Bookcase Shelves 
        
     
-## 2. Variation of unbounded Knapsack
+## 2. Variation of unbounded Knapsack ✔
        Questions 
          8. Unbounded Knapsack Problem (Must do)
          9. Maximize the cut segments
@@ -32,7 +32,7 @@
         81. Combination Sum IV (Must Do)
         104. Interger Break
       
-## 3. Variation of longest common subsequence
+## 3. Variation of longest common subsequence ✔
       Questions 
         11. Longest Common subsequence (Must do)
         14. Longest Common Substring (Must do)
@@ -91,7 +91,7 @@
         120. Wiggle subsequence (Must do)
         122. Length of Longest Fibonacci Subsequence (Must do)
         
-## 6. Variation of Fibonacci Series
+## 6. Variation of Fibonacci Series ✔
        Questions 
         30. Count Number of hops  (Must do)
         32. Reach a given score (Must do)
@@ -128,7 +128,7 @@
         107. Video Stiching (Must Do)
         
         
-## 9. Distinct Ways
+## 9. Distinct Ways ✔
      Questions 
         68. Knight Dialer
         69. Number of Dice Rolls with target Sum
